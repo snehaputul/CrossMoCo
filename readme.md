@@ -4,7 +4,7 @@ Official implementation of the paper [CrossMoCo: Multi-modal Momentum Contrastiv
 
 
 # Dataset
-For data preparation, please refer to [CrossPoint](https://github.com/MohamedAfham/CrossPoint
+For data preparation, please refer to [CrossPoint](https://github.com/MohamedAfham/CrossPoint)
 
 # Training
 
