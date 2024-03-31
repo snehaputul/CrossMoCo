@@ -1,6 +1,6 @@
 # CrossMoCo
 
-Official implementation of the paper [CrossMoCo: Multi-modal Momentum Contrastive Learning for Point Cloud]([https:](https://ieeexplore.ieee.org/abstract/document/10229841)).
+Official implementation of the paper [CrossMoCo: Multi-modal Momentum Contrastive Learning for Point Cloud](https://ieeexplore.ieee.org/abstract/document/10229841).
 
 **Few-shot 3D Point Cloud Classification**
 	
